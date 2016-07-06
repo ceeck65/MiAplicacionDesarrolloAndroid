@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Primera Aplicación Curso Android</string>
+    <string name="txtName">Nombre completo</string>
+    <string name="txtPhone">Teléfono</string>
+    <string name="txtEmail">Correo electrónico</string>
+    <string name="txtDescription">Descripción de contacto</string>
+    <string name="btnNext">Siguiente</string>
+
+
+    <string name="btnEditDetails">Editar datos</string>
+
+
+
+    <string name="lblBirthday">Fecha de Nacimiento</string>
+    <string name="lblName">Nombre completo:</string>
+    <string name="lblPhone">Teléfono:</string>
+    <string name="lblEmail">Correo electrónico:</string>
+    <string name="lblDetails">Descripción del contacto:</string>
+
+
+
 </resources>
