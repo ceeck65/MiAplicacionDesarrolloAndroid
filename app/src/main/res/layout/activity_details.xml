@@ -8,6 +8,11 @@
     android:layout_height="match_parent"
     tools:context="ve.com.disproweb.android.myapplication.DetailsActivity">
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/marginBottom"
+        >
     <android.support.v7.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -100,7 +105,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginRight="@dimen/marginRight"
-                android:text="@string/lblPhone" />
+                android:text="@string/lblDetails" />
 
             <TextView
                 android:id="@+id/tvDescription"
@@ -119,4 +124,5 @@
             />
 
     </android.support.v7.widget.LinearLayoutCompat>
+    </ScrollView>
 </android.support.constraint.ConstraintLayout>
