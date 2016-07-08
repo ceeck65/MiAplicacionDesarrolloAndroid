@@ -123,6 +123,6 @@
             android:text="@string/btnEditDetails"
             />
 
-    </android.support.v7.widget.LinearLayoutCompat>
+        </android.support.v7.widget.LinearLayoutCompat>
     </ScrollView>
 </android.support.constraint.ConstraintLayout>
