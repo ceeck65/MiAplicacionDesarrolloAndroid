@@ -12,6 +12,7 @@
 
 
     <string name="lblBirthday">Fecha de Nacimiento</string>
+    <string name="lblBirthdayDetails">Fecha de Nacimiento:</string>
     <string name="lblName">Nombre completo:</string>
     <string name="lblPhone">Teléfono:</string>
     <string name="lblEmail">Correo electrónico:</string>
